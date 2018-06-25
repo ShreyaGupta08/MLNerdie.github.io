@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
 
+div {
+  opacity: 0;
+  transition: opacity 1.25s;
+}
+
+div.visible { 
+  opacity: 1;
+}
+
+
+
     .column {
     float: left;
     width: 50%;
@@ -24,14 +35,25 @@
 }
 
 
+img {
+  -webkit-transition: 0.6s ease;
+  transition: 0.6s ease;
+}
+
+.row:hover img {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+
+
 </style>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Amatic SC' rel='stylesheet'>
     <script src="main.js"></script>
+    <script src="jquery.js"></script> 
+    <script src="fadein.js"></script> 
 
 
   </head>
@@ -53,59 +75,75 @@
       <div id="Home" style="margin-top: 100px; height: 100vh; text-align: center; justify-content: center;">
       <img src="Logo.png" style="clear: both;">
       <h1>
-  <a  style="color: black; font-family: 'Amatic SC'; font-size: 80px" href="" class="typewrite" data-period="700" data-type='[ "Making ML more accessible.", "Bringing ML to all.", "Making ML more open.", "Promoting diversity." ]'>
+  <a  style="color: #242525; font-family: 'Amatic SC'; font-size: 80px" href="" class="typewrite" data-period="700" data-type='[ "Making ML more accessible.", "Bringing ML to all.", "Making ML more open.", "Promoting diversity." ]'>
+    <span class="wrap"></span>
  
   </a>
 </h1>
     </div>
 
+
+    
+
       <div id="About" class="row">
-    <div class="column">
+    <div class="column" style="background-color: #00aa9d">
       <h3>Machine learning has touched every aspect of our life also as India is heading towards Digital India, the IT industry will require 50% more workforce equipped with digital skills. Professionals from data engineering and ML space are in high demand and companies are grappling to fill these positions. Finding and attracting ML and data science talent has become a strategic imperative for every company.</h3>
     </div>
     <div class="column" style="background-color:white;">
-      <img src="line-chart.svg" width="70%" height="70%">
+
+      <img src="line-chart.svg">
+
     </div>
   </div>
 
       <div class="row">
     <div class="column" style="background-color:white;">
-      <img src="idea.svg" width="70%" height="70%">
+
+      <img src="idea.svg" height="70%" width="70%">
+  
     </div>
-    <div class="column">
+
+    <div class="column" style="background: #556080">
       <h3> Thus with computer science and ML applications becoming more pervasive in everyday life, people from a non-technical background should also  join the field.  </h3>
     </div>
   </div>
+
       <div class="row">
-    <div class="column">
+    <div class="column" style="background: #B8A2B4">
       <h3>People with non-tech background  may find it difficult to start a career in ML but its not a hard job at all, they could easily excel in ML  as all one need is to brush up some mathematical concepts like linear algebra, statistics, calculus etc and ML Nerdie is always there to guide you!</h3>
     </div>
     <div class="column" style="background-color:white;">
-      <img src="hands.svg" width="70%" height="70%">
+      <img src="hands.svg">
+      
     </div>
   </div>
       <div class="row">
     <div class="column" style="background-color:white;">
-      <img src="document.svg" width="70%" height="70%">
+      <img src="document.svg">
+      
     </div>
-    <div class="column">
+    <div class="column" style="background: #E92B5F">
       <h3>MLNerdie is an independent newsletter  to make machine learning more accessible to everyone and since everything today is related to ML  so everyone should  get a chance to learn ML irrespective whether they have a technical background or not and this is  the main objective of MLnerdie. We conduct webinars ,teaching ML from the scratch and taking beginners step by step towards machine learning.</h3>
     </div>
 
   </div>
       <div class="row">
-    <div class="column" >
+    <div class="column" style="background: #238892">
       <h3>MLnerdie provides students a platform to showcase their work and ask questions that are   easier to ask among peers than in class and lectures.</h3>
     </div>
     <div class="column" style="background-color:white;">
-      <img src="class.svg" width="70%" height="70%">
+      <img src="class.svg">
+      
     </div>
   </div>
       <div class="row">
     <div class="column" style="background-color:white;">
-      <img src="teamwork.svg" width="70%" height="70%">
+      
+        <img src="teamwork.svg" >
+     
+      
     </div>
-    <div class="column">
+    <div class="column" style="background: #F9B54C">
       <h3>MLnerdie serves as a platform to promote diversity in tech and especially guiding and helping people with non technical background to start their career in ML.</h3>
     </div>
 
@@ -116,47 +154,8 @@
         <img src="im2.svg" style="display: block; margin-left: auto; margin-right: auto; width: 100%;">
       </a>
     </div>
- 
 
-
-    
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-    
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-  
-
-
-
-
-
-
-
+<!--<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div> --!>
 
 
 
