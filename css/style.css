@@ -63,13 +63,18 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  background: #f8e71c;
   font-family: "Bree Serif", serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
 
-
+h2, h3, h4, h5, h6, figure {
+  color: #000;
+  background: #f8e71c;
+  font-family: "Bree Serif", serif;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+}
 
 .gtco-container {
   max-width: 1100px;
