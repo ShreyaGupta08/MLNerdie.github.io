@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000;
   font-family: "Bree Serif", serif;
   font-weight: 400;
-  margin: 0 0 20px 0;
+  margin: 0 0 10px 0;
 }
 
 h2, h3, h4, h5, h6, figure {
@@ -73,7 +73,7 @@ h2, h3, h4, h5, h6, figure {
   background: #f8e71c;
   font-family: "Bree Serif", serif;
   font-weight: 400;
-  margin: 0 0 20px 0;
+  margin: 0 0 10px 0;
 }
 
 .gtco-container {
@@ -122,7 +122,7 @@ h2, h3, h4, h5, h6, figure {
 
 .gtco-top .gtco-social-top li {
   padding: 0;
-  margin: 0 0 0 10px;
+  margin: 0 0 0 5px;
   list-style: none;
   display: -moz-inline-stack;
   display: inline-block;
@@ -134,7 +134,7 @@ h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .gtco-top .gtco-social-top li {
-    margin: 0 0 0 10px;
+    margin: 0 0 0 5px;
   }
 }
 
