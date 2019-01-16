@@ -5,13 +5,20 @@
   font-weight: normal;
   font-style: normal;
 }
+@font-face {
+  font-family: 'Ubuntu', sans-serif;
+  src: url('https://fonts.googleapis.com/css?family=Ubuntu');
+  src: url('https://fonts.googleapis.com/css?family=Ubuntu') format("embedded-opentype"), url('https://fonts.googleapis.com/css?family=Ubuntu') format("truetype"), url('https://fonts.googleapis.com/css?family=Ubuntu') format("woff"), url('https://fonts.googleapis.com/css?family=Ubuntu') format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
 /* =======================================================
 *
 * 	Template Style 
 *
 * ======================================================= */
 body {
-  font-family: "Satisfy", Satisfy, cursive;
+  font-family: 'Ubuntu', sans-serif;
   font-weight: 400;
   font-size: 23px;
   line-height: 1.7;
