@@ -899,7 +899,7 @@ form {
 	}
 	.col-1 {
 		@media screen and (max-width: $screen-md) {
-			padding: 4em 0;
+			padding: 2em 0;
 		}
 	}
 	&.reverse {
@@ -943,10 +943,10 @@ form {
 			}
 			.text {
 				padding-left: 10%;
-				padding-right: 40%;
+				padding-right: 10%;
 
 				@media screen and (max-width: $screen-lg) {
-					padding-right: 30%;
+					padding-right: 20%;
 				}
 				@media screen and (max-width: $screen-sm) {
 					padding-left: 15px;
