@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Satisfy', cursive;
-  src: url('https://fonts.googleapis.com/css?family=Satisfy');
+  src: url("https://fonts.googleapis.com/css?family=Satisfy");
   src: url('https://fonts.googleapis.com/css?family=Satisfy') format("embedded-opentype"), url('https://fonts.googleapis.com/css?family=Satisfy') format("truetype"), url('https://fonts.googleapis.com/css?family=Satisfy') format("woff"), url('https://fonts.googleapis.com/css?family=Satisfy') format("svg");
   font-weight: normal;
   font-style: normal;
@@ -11,12 +11,11 @@
 *
 * ======================================================= */
 body {
-  font-family: "Satisfy", Satisfy, sans-serif;
+  font-family: "Satisfy", Satisfy, cursive;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #f8e71c;
-  background: #fff;
+  color: #000000;
 }
 
 #page {
@@ -64,7 +63,8 @@ p {
 
 h1, h2, h3, h4, h5, h6, figure {
   color: #000;
-  font-family: "Open Sans", Arial, sans-serif;
+  background: #f8e71c;
+  font-family: "Bree Serif", serif;
   font-weight: 400;
   margin: 0 0 20px 0;
 }
