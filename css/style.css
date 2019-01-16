@@ -115,8 +115,7 @@ h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
     /* For mobile phones: */
   .gtco-top .gtco-social-top {
-    [class*="col-"] {
-    width: 100%;
+    width: 80%;
     margin-right: 80px;
   }
 }
