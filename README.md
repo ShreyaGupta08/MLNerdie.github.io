@@ -12,3 +12,8 @@ Slack: https://bit.ly/2TglAk0
 Eventbrite: http://mlnerdie.eventbrite.com
 Facebook: https://www.facebook.com/mlnerdie/
 Twitter: https://twitter.com/MLNerdie
+
+Thanks to the following contributors:
+* Sakshi Shukla 
+* Tanya Gupta @Kavita309
+* Kavita Maurya @Tanya16107
