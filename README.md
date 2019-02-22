@@ -19,6 +19,9 @@ Twitter: https://twitter.com/MLNerdie
 
 Company Newsletter: http://eepurl.com/gicAkX
 
+
+
+
 Thanks to the following contributors:
 * Sakshi Shukla 
 * [Kavita Maurya](https://github.com/Kavita309)
