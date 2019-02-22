@@ -1,4 +1,4 @@
-MLNerdie community effort to distill machine learning research in a bid to make machine learning accessible to everyone.
+MLNerdie is an effort to distill machine learning research in a bid to make machine learning accessible to everyone.
 
 Activities:
 1. Events: Machine Learning in Pajamas 
