@@ -6,7 +6,8 @@ Activities:
 3. Local MLNerdie Chapters
 4. Mini-Grants
 
-Newsletter: https://tinyletter.com/AbiAryan
+
+Reading Group Newsletter: https://tinyletter.com/AbiAryan
 
 Slack: https://bit.ly/2TglAk0
 
@@ -15,6 +16,8 @@ Eventbrite: http://mlnerdie.eventbrite.com
 Facebook: https://www.facebook.com/mlnerdie/
 
 Twitter: https://twitter.com/MLNerdie
+
+Company Newsletter: http://eepurl.com/gicAkX
 
 Thanks to the following contributors:
 * Sakshi Shukla 
