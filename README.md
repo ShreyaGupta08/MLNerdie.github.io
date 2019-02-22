@@ -15,5 +15,5 @@ Twitter: https://twitter.com/MLNerdie
 
 Thanks to the following contributors:
 * Sakshi Shukla 
-* Tanya Gupta @Kavita309
-* Kavita Maurya @Tanya16107
+* [https://github.com/Kavita309](Kavita Maurya)
+* [https://github.com/Tanya16107](Tanya Gupta)
