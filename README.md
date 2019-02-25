@@ -2,10 +2,10 @@ MLNerdie is an effort to distill machine learning research in a bid to make mach
 
 Activities:
 
-    Events: Machine Learning in Pajamas
-    Careers in Machine Learning
-    Local MLNerdie Chapters
-    Mini-Grants
+1. Events: Machine Learning in Pajamas
+2. Careers in Machine Learning
+3. Local MLNerdie Chapters
+4. Mini-Grants
 
 Reading Group Newsletter: https://tinyletter.com/AbiAryan
 
@@ -21,7 +21,7 @@ Company Newsletter: http://eepurl.com/gicAkX
 
 Thanks to the following contributors:
 
-    Sakshi Shukla
-    Kavita Maurya
-    Tanya Gupta
+* Sakshi Shukla
+* Kavita Maurya
+* Tanya Gupta
 
